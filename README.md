@@ -25,6 +25,7 @@ isLemon("orange"); // false
 
 ### isLemon(value)
 Type: `Function`
+
 Returns: `Boolean`
 
 #### value
