@@ -1,28 +1,37 @@
 {
-  "name": "is-lemon",
-  "version": "1.0.0",
-  "description": "test if a variable is lemon",
-  "main": "dist/is-lemon.cjs.js",
-  "module": "dist/is-lemon.esm.js",
-  "browser": "dist/is-lemon.umd.js",
-  "scripts": {
-    "build": "rollup -c",
-    "dev": "rollup -c -w",
-    "test": "node test/test.js",
-    "pretest": "npm run build"
-  },
-  "files": [
-    "dist"
-  ],
-  "keywords": [
-    "test",
-    "testing",
-    "lemon"
-  ],
-  "author": "fiskgrodan",
-  "license": "ISC",
-  "devDependencies": {
-    "rollup": "^1.15.6",
-    "rollup-plugin-terser": "^5.0.0"
-  }
+	"name": "is-lemon",
+	"version": "1.0.0",
+	"description": "test if a variable is lemon",
+	"main": "dist/is-lemon.cjs.js",
+	"module": "dist/is-lemon.esm.js",
+	"browser": "dist/is-lemon.umd.js",
+	"scripts": {
+		"build": "rollup -c",
+		"dev": "rollup -c -w",
+		"test": "node test/test.js",
+		"pretest": "npm run build"
+	},
+	"files": [
+		"dist"
+	],
+	"keywords": [
+		"test",
+		"testing",
+		"lemon"
+	],
+	"author": "fiskgrodan",
+	"license": "ISC",
+	"homepage": "https://github.com/fiskgrodan/is-lemon",
+	"bugs": {
+		"url": "https://github.com/fiskgrodan/is-lemon/issues",
+		"email": "fiskgrodan@hotmail.com"
+	},
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/fiskgrodan/is-lemon.git"
+	},
+	"devDependencies": {
+		"rollup": "^1.15.6",
+		"rollup-plugin-terser": "^5.0.0"
+	}
 }

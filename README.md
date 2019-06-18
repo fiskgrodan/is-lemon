@@ -1,4 +1,4 @@
-# isLemon 🍋
+# isLemon
 isLemon is a library for testing if a value is lemon 🍋.
 
 ## Install
