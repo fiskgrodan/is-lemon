@@ -19,6 +19,7 @@ isLemon("🍋"); // true
 isLemon(0); // false
 isLemon(null); // false
 isLemon("orange"); // false
+isLemon("🍊"); // false
 ```
 
 ## API
