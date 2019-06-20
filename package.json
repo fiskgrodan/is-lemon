@@ -1,6 +1,6 @@
 {
 	"name": "is-lemon",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "test if a variable is lemon",
 	"main": "dist/is-lemon.cjs.js",
 	"module": "dist/is-lemon.esm.js",
@@ -27,8 +27,8 @@
 		"email": "fiskgrodan@hotmail.com"
 	},
 	"repository": {
-		"type" : "git",
-		"url" : "https://github.com/fiskgrodan/is-lemon.git"
+		"type": "git",
+		"url": "https://github.com/fiskgrodan/is-lemon.git"
 	},
 	"devDependencies": {
 		"rollup": "^1.15.6",
